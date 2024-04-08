@@ -1,0 +1,5 @@
+Events==0.4
+mido==1.2.6
+muspy==0.5.0
+numpy==1.24.4
+torch==1.11.0
